@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/gocraft/health"
-	"github.com/gocraft/work"
 	"github.com/gomodule/redigo/redis"
+	"github.com/gs-engg/work"
 )
 
 var namespace = "bench_test"

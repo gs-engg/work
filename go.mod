@@ -1,4 +1,4 @@
-module github.com/gocraft/work
+module github.com/gs-engg/work
 
 go 1.14
 
